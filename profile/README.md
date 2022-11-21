@@ -1,4 +1,4 @@
-# Various application and pipeline/infrastructure/configuration-as-code projects
+# Various applications and pipeline/infrastructure/configuration-as-code projects
 
 I write a lot of code as a substitute for doing 'repetitive' work and dealing with complex processes
 I can hand off as a 'product' to customers, collaborators and volunteer efforts.
